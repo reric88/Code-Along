@@ -1,0 +1,55 @@
+body {
+    margin: 10px 60px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+h1, h4, ol {
+    margin: 0;
+}
+
+p {
+    margin: 5px 0;
+}
+
+
+button {
+    display: block;
+    margin: 10px 0;
+}
+
+.top-bar {
+    background-color: #87ceeb;
+    padding: 0 40px;
+}
+
+.main {
+    background-color: #b8d6e2;
+    padding: 10px 40px;
+}
+
+.comments {
+    margin: 40px 0;
+}
+
+.comment {
+    margin: 10px 0;
+}
+
+.row {
+    padding: 5px 0;
+}
+
+.bottom, .top-comment {
+    display: flex;
+    color: #808080;
+    font-size: 12px;
+}
+
+.timestamp {
+    padding-right: 10px;
+}
+
